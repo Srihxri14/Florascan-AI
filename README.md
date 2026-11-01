@@ -1,0 +1,2 @@
+# Florascan-AI
+PLANT DISEASE DETECTION 
