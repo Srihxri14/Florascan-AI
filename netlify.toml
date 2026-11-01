@@ -1,0 +1,10 @@
+# Netlify Configuration for FloraScan AI
+[build]
+  # Serve the frontend directory as the website root
+  publish = "frontend"
+
+[[redirects]]
+  # Single Page App routing fallback
+  from = "/*"
+  to = "/index.html"
+  status = 200
